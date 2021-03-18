@@ -1,2 +1,2 @@
 ﻿  main.cpp
-E:\MyProjects\Practice2\Practice2\main.cpp(63): error C4700: использована неинициализированная локальная переменная "objB"
+E:\MyProjects\Practice2\Practice2\main.cpp(40): fatal error C1075: "{": не найдена несоответствующая лексема

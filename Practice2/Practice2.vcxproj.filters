@@ -19,4 +19,13 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore">
+      <Filter>Исходные файлы</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="text.txt" />
+    <Text Include="logs\log1.txt" />
+  </ItemGroup>
 </Project>

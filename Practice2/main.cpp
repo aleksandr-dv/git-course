@@ -39,6 +39,6 @@ public:
 int main()
 {
 	setlocale(LC_ALL, "ukr");
-
+	cout << "d";
 	return 0;
 }
